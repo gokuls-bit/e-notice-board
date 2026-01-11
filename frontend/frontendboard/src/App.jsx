@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Bell, Calendar, Mail, MessageCircle, Phone, FileText, Users, TrendingUp, Home, Plus, Edit2, Trash2, X, Menu } from 'lucide-react';
 
-// Mock API service (in real app, this would connect to your backend)
+// Mock API service (in real app, this would conn ect to your backend)
 const API_BASE = 'http://localhost:5000/api';
 
 const mockNotices = [
